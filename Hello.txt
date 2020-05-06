@@ -1,1 +1,8 @@
-Hello github, this is me visiting again from bitbucket in 2020, Damn!
+Hello github, ithis is me visiting again from bitbucket in 2020, Damn, I never taught I would be visiting my public report at Github again! Hope you are all doing well during the COVID-19 situation.
+I have been working in systems engineering area for quite a while now. I wish there is a spel checker like Grammarly for Git and VIM, may there there is one but I'm unaware. So, please bear with me for any typos and horror show.
+I will try to keep my github updated as much as possible with all the basics I learnt over the years with Python programming and shell scripting. I do have a lot of crazy projects at work but TBH, I will play around here to get a little more fun with my personal/private projects.
+
+Feel free to say hi. My email is at chharish@live.com
+
+Thanks y'all. 
+Harish.
