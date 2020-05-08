@@ -1,0 +1,5 @@
+This is another piece of text for the third day in a row. I know you are getting crazy now, bear with me, I'm gona make you even more crazy. ;) 
+
+I'm just visiting Github, exploring and testing out several advanced concepts with Git. Hope y'all have a great Friday.
+
+Tack skit.
